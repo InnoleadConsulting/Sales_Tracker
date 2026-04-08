@@ -19,7 +19,7 @@ packaging==26.0
 pandas==3.0.2
 pillow==12.2.0
 plotly==6.6.0
-plotly-express==0.4.1
+plotly.express==0.4.1
 protobuf==7.34.1
 pyarrow==23.0.1
 pydeck==0.9.1
